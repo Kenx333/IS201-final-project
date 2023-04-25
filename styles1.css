@@ -1,0 +1,36 @@
+body {
+    font-family: serif;
+    color: #f2f3f4;
+    background-color: #093145
+    
+}
+img {
+    display: block;
+    /*content*/
+    padding: 5px;
+    margin: 10px;
+    margin: auto;
+    text-align: center;
+}
+
+.links{
+    background-color: #EFD469;
+    color: #373d3f;
+    padding: 14px 25px;
+    text-align: center;
+  }
+
+ol {
+    color: #EFD469;
+}
+ul {
+    color: #EFD469;
+}
+
+h1 {
+    text-align: center;
+}
+.center {
+    margin: auto;
+    width: 35%;
+  }
